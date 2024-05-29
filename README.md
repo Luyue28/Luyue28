@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luyue Zhang</h1>
 <h3 align="center">An ICT student in HZ University</h3>
 
-- 🌱 I’m currently learning **Javascript, Typescript**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Typescript, PHP with Laravel**
 
 - 📫 How to reach me **zhan0067@hz.nl**
 
-- ⚡ Fun fact **I loveeeeeee black tea!**
+- ⚡ Fun fact **I loveeeeeee black tea and cats!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
